@@ -728,14 +728,15 @@
 
         <div class="row contact-info">
 
-          <div class="col-md-4">
+          <div class="col-md-6">
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3>Address</h3>
-              <address>Delhi Technological University, Shahbad Daulatpur, Main Bawana Road, Delhi-110042</address>
+              <address>Delhi Technological University,<br> Shahbad Daulatpur, Main Bawana Road, Delhi-110042</address>
             </div>
           </div>
 
+          <!--
           <div class="col-md-4">
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
@@ -743,8 +744,9 @@
               <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
             </div>
           </div>
+          -->
 
-          <div class="col-md-4">
+          <div class="col-md-6">
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
@@ -817,7 +819,7 @@
               Delhi Technological University,<br>
               Shahbad Daulatpur, Main Bawana Road, <br>
               Delhi-110042<br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
+              <!--<strong>Phone:</strong> +1 5589 55488 55<br>-->
               <strong>Email:</strong> contact@climbdtu.co<br>
             </p>
 
